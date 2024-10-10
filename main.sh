@@ -25,3 +25,8 @@ print_message () {
 echo “Aprendamos programación Bash”
 echo “Disfruta este tutorial”
 }
+
+#Execute the hello world function
+hola_mundo
+#Execute the print message function
+print_message
