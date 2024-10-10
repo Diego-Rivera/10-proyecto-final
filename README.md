@@ -7,3 +7,4 @@ Se incorporan shell del tipo bash para trabajo de logs del servidor
 ## Shell principal
 La shell principal incorpora varias sentencias de bash scripting
 Se agrega función “Hola Mundo” y “Message”
+Se agrega invocación a nuevas funciones de “Hola Mundo” y “Message”
