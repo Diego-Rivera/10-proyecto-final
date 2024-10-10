@@ -14,3 +14,8 @@ echo "Mismo número"
 else
 echo "Número diferente"
 fi
+#Define a hola mundo function
+hola_mundo () {
+echo “¡Hola, mundo!”
+echo “Esta es una variable de prueba”
+}
